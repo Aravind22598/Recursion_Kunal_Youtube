@@ -1,4 +1,4 @@
-package Recursion_Easy_Problems;
+package Recursion.Recursion_Easy_Problems;
 
 public class CountZeroes {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Recursion_Array_Problems;
+package Recursion.Recursion_Array_Problems;
 
 public class IsArraySorted_1 {
     public static void main(String[] args) {

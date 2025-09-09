@@ -1,5 +1,4 @@
-package Recursion_Easy_Problems;
-import Recursion_Easy_Problems.ReverseANumber;
+package Recursion.Recursion_Easy_Problems;
 
 public class PalindromeOfANumber {
     public static void main(String[] args) {
