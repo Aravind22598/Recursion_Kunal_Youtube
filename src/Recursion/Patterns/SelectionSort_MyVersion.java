@@ -2,7 +2,7 @@ package Recursion.Patterns;
 
 import java.util.Arrays;
 
-public class SelectionSort {
+public class SelectionSort_MyVersion {
     public static void main(String[] args) {
         int arr[]={2,4,1,3,7,6,9,8,5};
        // int[]arr={4,1,3,2};

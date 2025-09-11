@@ -1,4 +1,4 @@
-package Recursion.Patterns;
+package Recursion.Patterns.HeadRecursion;
 
 public class PrintReverseString {
     public static void main(String[] args) {
